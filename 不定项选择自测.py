@@ -2,7 +2,7 @@
 # @Author: Lin_ZK
 # @Email: 1751740699@qq.com
 # @Date: 2025-07-04
-# @Description: 工程伦理答题系统，使用 PyQt5 实现的 GUI
+# @Description: 不定项选择自测系统，使用 PyQt5 实现的 GUI
 # @Version: 1.0
 # @License: MIT License
 # @Thanks: 感谢Copilot给予代码编辑支持
